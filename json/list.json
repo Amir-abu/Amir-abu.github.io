@@ -1,3 +1,12 @@
-[{"title": "HBO","league": "Premium","url": "HBO","img": "HBO","status": "EN VIVO"},
-{"title": "RCN+","league": "Colombia","url": "RCN","img": "Rcn+1","status": "EN VIVO"
+[{"title": "ESPN Premium","league": "Deportes","url": "espnprem","img": "espnprem.jpg","status": "EN VIVO"},
+{"title": "ESPN","league": "Deportes","url": "espn","img": "espn.png","status": "EN VIVO"},
+{"title": "ESPN 2","league": "Deportes","url": "espn2","img": "espn2.jpg","status": "EN VIVO"},
+{"title": "ESPN 3","league": "Deportes","url": "espn3","img": "espn3.jpg","status": "EN VIVO"},
+{"title": "ESPN 4","league": "Deportes","url": "espn4","img": "espn4.png","status": "EN VIVO"},
+{"title": "ESPN 5","league": "Deportes","url": "espn5","img": "espn5.png","status": "EN VIVO"},
+{"title": "ESPN 6","league": "Deportes","url": "espn6","img": "espn6.png","status": "EN VIVO"},
+{"title": "ESPN 7","league": "Deportes","url": "espn7","img": "espn7.png","status": "EN VIVO"},
+{"title": "Directv+","league": "Deportes","url": "directpl","img": "di+.jpg","status": "EN VIVO"},
+{"title": "Directv","league": "Deportes","url": "directv","img": "di.jpg","status": "EN VIVO"},
+{"title": "Directv 2","league": "Deportes","url": "directv2","img": "di2.jpg","status": "EN VIVO"
 }]
